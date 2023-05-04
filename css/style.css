@@ -14,7 +14,12 @@ bg.black{
     background-color: black;
 }
 
+.bg-grey{
+    background-color: #2C3E50;
+}
+
 .bar{
     height: 3px;
     background-color: black;
 }
+
