@@ -18,7 +18,3 @@ bg.black{
     height: 3px;
     background-color: black;
 }
-
-div.row>img{
-    border-radius: 40px;
-}
