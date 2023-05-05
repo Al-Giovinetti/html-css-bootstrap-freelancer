@@ -23,3 +23,6 @@ bg.black{
     background-color: black;
 }
 
+textarea{height: 100px;
+}
+
